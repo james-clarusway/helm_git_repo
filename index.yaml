@@ -3,7 +3,7 @@ entries:
   gitrepotest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-28T13:27:27.484637812+03:00"
+    created: "2021-11-28T13:36:47.064696559+03:00"
     description: A Helm chart for Kubernetes
     digest: 40d464c7a32a59a927fee14b3e8615e7b99ab827adaada8bfd4d892a6bfba513
     name: gitrepotest
@@ -11,4 +11,15 @@ entries:
     urls:
     - gitrepotest-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-28T13:27:27.482697349+03:00"
+  gitrepotest2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-28T13:36:47.065129571+03:00"
+    description: A Helm chart for Kubernetes
+    digest: d3feb5296ff0feb15632a635282b3e6efe7705ef4ad4a6e4009aafc0f32c69ec
+    name: gitrepotest2
+    type: application
+    urls:
+    - gitrepotest2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-28T13:36:47.064173308+03:00"
